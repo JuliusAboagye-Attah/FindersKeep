@@ -2,5 +2,7 @@
     <string name="app_name">FindersKeep</string>
     <string name="title_activity_maps">Map</string>
     <string name="google_maps_key">KEY</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="search">Search</string>
 
 </resources>
