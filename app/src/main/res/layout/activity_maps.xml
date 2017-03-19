@@ -14,7 +14,8 @@
         android:layout_height="wrap_content"
         android:id="@+id/TFaddress"
         android:hint="@string/enter_address"
-        android:imeOptions="actionSearch" />
+        android:imeOptions="actionSearch|actionGo"
+        android:singleLine="true" />
     <Button
         android:layout_width="103dp"
         android:layout_height="wrap_content"
